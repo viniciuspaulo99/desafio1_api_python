@@ -1,0 +1,11 @@
+estacao_id,nome_estacao,cidade,pais,latitude,longitude,altitude_m
+1,EST-00001,Braga,Portugal,"37,8338","-8,4127",590
+2,EST-00002,Córdoba,Argentina,"-38,677","-59,1101",2109
+3,EST-00003,Marselha,França,"44,1635","4,6858",105
+4,EST-00004,Paris,França,"49,6476","4,7372",3406
+5,EST-00005,Mendoza,Argentina,"-27,3641","-58,585",254
+6,EST-00006,Toronto,Canadá,"51,9661","-97,2022",971
+7,EST-00007,Sales,Brasil,"-32,0681","-54,5841",3128
+8,EST-00008,Frankfurt,Alemanha,"54,2149","7,7564",1154
+9,EST-00009,Mumbai,Índia,"30,7811","75,5793",544
+10,EST-00010,Lisboa,Portugal,"38,4379","-8,9435",1491
